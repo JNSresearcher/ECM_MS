@@ -70,6 +70,7 @@ A spiral coil wound around a spiral magnetic core was used for the tests.
 |  :-:                          |:-:   |
 |a) geometry                    |b) magnetic flux density in a ferromagnetic   | 
 |                               |  material and current density in the coil |
+
 &emsp;&emsp;&emsp;&emsp; Fig.1. Screenshots of geometry and result of calculations   
 &emsp;&emsp; Number of unknowns: 204073, number of iterations: 1360, computation time: 6.5 s.  
 
@@ -84,6 +85,7 @@ Below in  <a id="Fig.2">Fig.2</a> are screenshots taken in  **VoxCAD** (geometry
 |  :-:                       |:-:   |
 |a) design    |b) magnetic flux density in ferromagnets  | 
 |                       | displayed in **Paraview**|
+
 &emsp; Fig.2. Image of stepper motor design and magnetic flux density distribution .   
 &emsp; Number of unknowns: 204740, number of initial iterations: 1990, сomputation time: 2.2s per time step.  
 
