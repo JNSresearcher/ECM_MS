@@ -18,12 +18,12 @@ where  **$\mu_0=4\pi\cdot 10^{-7}$** is magnetic constant, **$\mu_r$** relative 
 
 <a id="eq1">**Equivalent electrical circuit**</a>  
 &emsp;The computational domain is divided into rectangular prismatic cells. The cells grid is associated with a rectangular three-dimensional mesh (displaced cells). The edge of the mesh is modeled by a resistive branch. The branch resistance is numerically equal to the magnetic resistance. The resulting electrical circuit is calculated using loop analysis. The sources are the loop emfs, numerically equal to the densities of external current sources in the coils. The resulting branch currents are numerically equal to the magnetic flux density at the mesh edge. The matrix of loop resistances and branch currents is calculated using topological matrices.  
-&emsp;Fig. 1 shows the equivalent circuit for one mesh section and the topological representation of a rectangular prismatic mesh using a 3x3x3 area as an example. All contours of the rectangular mesh are used in the calculations. The interactive  [3D](https://github.com/JNSresearcher/ECM_MS/img/mesh.html) tab in Fig. 1b) shows the numbering of branches and contours in detail (you can rotate, move, etc.).  
+&emsp;Fig. 1 shows the equivalent circuit for one mesh section and the topological representation of a rectangular prismatic mesh using a 3x3x3 area as an example. All contours of the rectangular mesh are used in the calculations.
 
 |&emsp;![ ](../img/cell.png)  | &emsp;&emsp;![ ](../img/mesh.png)| 
 |  :-:                          |:-:   |
 |a) resistive circuit for|b) topological diagram of a mesh with a 3x3x3 nodes count  | 
-|  one mesh section | [**Click here**](https://github.com/JNSresearcher/ECM_MS/img/mesh.html) for interactive viewing 3d mesh|
+|  one mesh section       |   |
 &emsp;&emsp;&emsp;&emsp; Fig.1. Equivalent branches and topology of an electrical circuit
 
 
