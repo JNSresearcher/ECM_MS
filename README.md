@@ -7,7 +7,7 @@ The computational space contains field sources—coils of arbitrary geometric co
 
 ### 1 Calculation method
 &emsp; The computational domain is divided into rectangular prismatic cells (a rectangular three-dimensional mesh). The edge of each cell is modeled by a resistive branch. The branch resistance is numerically equal to the magnetic resistance. The resulting electrical circuit is calculated using loop analysis. The sources are the loop emfs, numerically equal to the densities of external current sources in the coils. The resulting branch currents are numerically equal to the magnetic flux density at the cell edge. The matrix of loop resistances and branch currents is calculated using topological matrices. (This can be considered a variant of the equivalent magnetic circuit method.)  
-&emsp; Let us note one feature of the method that is of research interest. The contour matrix used is overdetermined. It turned out that the simplest method of successive  over relaxation (SOR) finds a solution quite quickly (see section [8 Examples](#ex)). More detailed information is contained in files [Readme.md](./doc/README.md) and [Validations.pdf](./doc/Validations.pdf) in the  [/doc](./doc) folder.
+&emsp; **_Note_** Let us note one feature of the method that is of research interest. The contour matrix used is _overdetermined_. It turned out that the simplest method of successive  over relaxation (SOR) finds a solution quite quickly (see section [8 Examples](#ex)). More detailed information is contained in files [Readme.md](./doc/README.md) and [Validations.pdf](./doc/Validations.pdf) in the  [/doc](./doc) folder.
 
 ### 2 Required Software 
 The build and testing was done under _Windows_ (possibly _Linux_ too, but it hasn't been fully tested yet).  
