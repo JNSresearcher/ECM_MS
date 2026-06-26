@@ -97,7 +97,7 @@ Below in  <a id="Fig.2">Fig.2</a> are screenshots taken in  **VoxCAD** (geometry
 |  :-:                             |:-: |
 | a) design   |b) magnetic flux density in longitudinal section |
 
-&emsp;&emsp; Fig.3. Sreenshots of geometry created by **VoxCAD** and calculation results  obtained in **ECM_MS** and displayed in **ParaView**  
+&emsp;&emsp; Fig.3. Screenshots of geometry created by **VoxCAD** and calculation results  obtained in **ECM_MS** and displayed in **ParaView**  
 &emsp;&emsp;&emsp;&emsp;&emsp; Number of unknowns: 472857, number of initial iterations: 2010, сomputation time: on average 5.3s per time step .
 
  ***
