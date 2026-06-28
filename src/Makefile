@@ -9,7 +9,7 @@ FCOPT1 = -O2  -finit-local-zero  -ffree-line-length-none
 FCOPT2 = -O2
 
 Lsw = -lz -lgfortran -lstdc++
-SRC = uncompress m_fparser m_vxc2data_ms   vxc2data_ms2  $(F)
+SRC = uncompress m_fparser m_vxc2data   vxc2data  $(F)
 OBJ = $(addsuffix .o, $(SRC) )
 .SUFFIXES: .o .mod .f90 .F90 .cpp
 
