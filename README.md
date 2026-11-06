@@ -81,7 +81,7 @@ A helix coil wound around a helix magnetic core was used for the tests.
 &emsp; In this modification of the linear stepper motor, current pulses are applied to windings located on the moving part, creating sequences of magnetic fields that interact with the stationary part of the motor, which has a toothed structure. This results in discrete movement over precisely defined distances—steps.  
 Below in  <a id="Fig.2">Fig.2</a> are screenshots taken in  **VoxCAD** (geometry prepared for **ECM_MS**).  The initial data for the task is in the file **step_motor.vxc**.   
 
-|&emsp;![ ](./img/step.png) |&emsp;![ ](./img/step.gif) | 
+|&emsp;![ ](./img/step.png) |&emsp;![ ](./img/STEP.gif) | 
 |  :-:                       |:-:   |
 |a) design    |b) magnetic flux density in ferromagnets  | 
 |                       | displayed in **Paraview**|
