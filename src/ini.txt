@@ -1,0 +1,15 @@
+*../examples/core_big
+*../examples/helices
+*../examples/Lens
+*../examples/LSM
+*../examples/rotor_stator
+*../examples/sphere
+*../examples/sphere_hollow
+*../examples/step_motor
+*../examples/Task13
+*../examples/core_branched_asymm
+*../examples/core_branched_symm
+*../examples/core_simple
+../examples/core_simple_4part
+*../examples/Task20
+*../examples/in
