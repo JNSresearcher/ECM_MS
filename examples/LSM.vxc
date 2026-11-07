@@ -194,7 +194,7 @@
     </Material>
     <Material ID="8">
       <MatType>0</MatType>
-      <Name>fe2 mu=100 Vex=Vx file_BH=./curves/BH-st20.txt</Name> 
+      <Name>fe2 mu=100 Vex=Vx </Name> file_BH=./curves/BH-st20.txt
       <Display>
         <Red>0.494118</Red>
         <Green>0.494118</Green>
