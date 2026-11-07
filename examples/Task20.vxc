@@ -69,7 +69,7 @@
     </Material>
     <Material ID="3">
       <MatType>0</MatType>
-      <Name>fer mu=100 </Name>file_BH=./curves/BH-team20.txt
+      <Name>fer mu=100 file_BH=./curves/BH-team20.txt</Name>
       <Display>
         <Red>0.631373</Red>
         <Green>0</Green>
