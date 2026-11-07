@@ -194,7 +194,7 @@
     </Material>
     <Material ID="8">
       <MatType>0</MatType>
-      <Name>s solver dir=FER python=3 itmag=500 tolmag=0.2m omemag=0.9 mode=1</Name>
+      <Name>s solver dir=FER itmag=500 tolmag=0.2m omemag=0.9 mode=1</Name>
       <Display>
         <Red>0.494118</Red>
         <Green>0.494118</Green>
