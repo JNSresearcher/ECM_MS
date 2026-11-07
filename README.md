@@ -69,8 +69,8 @@ A helix coil wound around a helix magnetic core was used for the tests.
   
 |&emsp;![ ](./img/helices.png)  | &emsp;&emsp;![ ](./img/helices_result.png)| 
 |  :-:                          |:-:   |
-|a) geometry                    |b) magnetic flux density in a ferromagnetic   | 
-|                               | and current density in the coil |
+|a) geometry                    |b) magnetic flux density in a ferromagnetic and current density in the coil   | 
+
 &emsp;&emsp;&emsp;&emsp; Fig.1. Screenshots of geometry and result of calculations   
 &emsp;&emsp; &emsp;&emsp;Number of unknowns: 189378, computation time: 10s.  
 
@@ -83,10 +83,9 @@ Below in  <a id="Fig.2">Fig.2</a> are screenshots taken in  **VoxCAD** (geometry
 
 |&emsp;![ ](./img/step.png) |&emsp;![ ](./img/STEP.gif) | 
 |  :-:                       |:-:   |
-|a) design    |b) magnetic flux density in ferromagnets  | 
-|                       | displayed in **Paraview**|
-&emsp; Fig.2. Image of stepper motor design and magnetic flux density distribution .   
-&emsp; Number of unknowns: 184712, сomputation time: 1.25s per time step.  
+|a) design    |b) magnetic flux density in ferromagnets displayed in **Paraview** | 
+
+&emsp; Fig.2. Image of stepper motor design and magnetic flux density distribution. Number of unknowns: 184712, сomputation time: 1.25s per time step.  
 
 ### 8.2.2. Linear synchronous machine (**LSM**) with longitudinal magnetic flux. 
 
@@ -97,8 +96,7 @@ Below in  <a id="Fig.2">Fig.3</a> are screenshots taken in  **VoxCAD** (geometry
 |  :-:                             |:-: |
 | a) design   |b) magnetic flux density in longitudinal section |
 
-&emsp;&emsp; Fig.3. Sscreenshots of geometry created by **VoxCAD** and calculation results  obtained in **ECM_MS** and displayed in **ParaView**  
-&emsp;&emsp;&emsp;&emsp;&emsp; Number of unknowns: 216988, сomputation time: on average 1.3s per time step.
+&emsp;&emsp; Fig.3. Sscreenshots of geometry created by **VoxCAD** and calculation results  obtained in **ECM_MS** and displayed in **ParaView**.  Number of unknowns: 216988, сomputation time: on average 1.3s per time step.  
 
  ***
 Autor <a href="mailto:JNSresearcher@gmail.com">J.Sochor</a>
