@@ -119,7 +119,7 @@
     </Material>
     <Material ID="5">
       <MatType>0</MatType>
-      <Name>s solver solv=sor3  dir=LENS itmag=200 tolmag=1u model=1</Name>
+      <Name>s solver solv=sor3  dir=LENS itmag=200 tolmag=1u mode=1</Name>
       <Display>
         <Red>0.494118</Red>
         <Green>0.494118</Green>
