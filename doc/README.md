@@ -21,9 +21,9 @@ where  **$\mu_0=4\pi\cdot 10^{-7}$** is magnetic constant, **$\mu_r$** relative 
 &emsp;Fig. 1 shows a diagram for two cells, as well as the topological layout of a circuit with a 3×3×3 grid of nodes. [3D](https://jnsresearcher.github.io/viewing-3D-mesh/) tab in in Fig. 1b)  provides a detailed view of the numbering of branches and contours (with features such as rotation, panning, etc.).  
 
 |![ ](../img/cell.png)| ![ ](../img/mesh.png)| 
-|  :-:                         |:-:  |
-|a) circuit for two cells|b) topological representation of a 3×3×3 grid of cells (dashed lines)  | 
-|         |and a computational grid (solid lines) [**Click here**](https://jnsresearcher.github.io/viewing-3D-mesh/) for interactive viewing 3d mesh   |
+|  :-:                         |:-  |
+|a) circuit for two cells|b) topological representation of a 3×3×3 grid of cells (dashed lines) and a computational grid (solid lines) [**Click here**](https://jnsresearcher.github.io/viewing-3D-mesh/) for interactive viewing 3d mesh  | 
+
 &emsp;&emsp;&emsp;&emsp; Fig.1. Equivalent branches and topology of an electrical circuit
 
 &emsp; Magnetic permeance between two nodes, as shown in Fig. 1a, is equal to $\mu$. This permeability can be represented as a half-sum $\mu = (\mu_1 + \mu_2)/2$, where $\mu_1$ is the magnetic permeability of the 1st cell, $\mu_2$ is the magnetic permeability of the 2nd cell. The conductivity of the branch between nodes 1 and 2 will be equal to:
