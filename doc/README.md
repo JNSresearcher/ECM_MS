@@ -22,7 +22,7 @@ where  **$\mu_0=4\pi\cdot 10^{-7}$** is magnetic constant, **$\mu_r$** relative 
 
 |![ ](../img/cell.png)| ![ ](../img/mesh.png)| 
 |  :-:                         |:-  |
-|a) circuit for two cells|b) topological representation of a 3×3×3 grid of cells (dashed lines) and a computational grid (solid lines) [**Click here**](https://jnsresearcher.github.io/viewing-3D-mesh/) for interactive viewing 3d mesh  | 
+|a) circuit for two cells|b) topological representation of a 3×3×3 grid of cells (dashed lines) and a computational grid (solid lines). [**Click here**](https://jnsresearcher.github.io/viewing-3D-mesh/) for interactive viewing 3d mesh  | 
 
 &emsp;&emsp;&emsp;&emsp; Fig.1. Equivalent branches and topology of an electrical circuit
 
